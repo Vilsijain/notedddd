@@ -1,0 +1,12 @@
+Flask
+gunicorn
+youtube-transcript-api
+openai
+youtube_dl
+pafy
+SpeechRecognition
+requests
+python-docx
+nltk
+rake_nltk
+summa
